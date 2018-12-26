@@ -103,7 +103,7 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "지식"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "팀 김경태,양동구"
   location         : "Somewhere"
