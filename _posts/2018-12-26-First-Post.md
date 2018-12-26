@@ -1,12 +1,12 @@
 ---
 title: SSAFY Start Camp 챗봇 퀘스트
 ---
-대전_3_, 팀 김경태 양동구 , https://github.com/envy2/ssafy_chatbbot
+대전_3_지식백과, 팀 김경태 양동구 , https://github.com/envy2/ssafy_chatbbot
 # I. 스펙(Specification)
 
 주요 기능 : 챗봇을 부르고 단어를 입력하면 백과사전에서 단어를 검색하여 알려준다.
 
-예시 명령 : @동경 사과
+예시 명령 : **@동경** 사과
 
 예시 결과 : 쌍떡잎식물 장미목 장미과 낙엽교목 식물인 사과나무의 열매...
 
