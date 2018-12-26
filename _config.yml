@@ -103,9 +103,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kyungtae Kim"
+  name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "SSAFY!"
+  bio              : "팀 김경태,양동구"
   location         : "Somewhere"
   email            :
   links:
