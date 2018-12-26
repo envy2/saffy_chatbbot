@@ -23,7 +23,7 @@ description              : "An amazing website."
 url                      : "https://envy2.github.io"
 baseurl                  : "/ssafy_chatbbot
 repository               : "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/500x300.png"
+teaser                   : #"/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
